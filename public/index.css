@@ -1,0 +1,35 @@
+.text {
+   background-color :white ;
+   color: rgb(0,166,235);
+   text-align: center;
+   font-size: bold;
+   font-size: 50px;
+   text-shadow: rgb(242,142,0);
+}
+.overlay {
+	text-align:center;
+    height: 100%;
+    width: 100%;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: white;
+
+}
+.overlay-content {
+
+    margin-top:50px;
+
+}
+
+.button {
+    padding:10%;
+    align: center;
+    color: black;
+    border-radius: 5px;
+    background-color: inherit;
+    margin: 20px;
+    font-weight: bold;
+    font-size: 25px;
+
+}

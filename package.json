@@ -1,0 +1,27 @@
+{
+  "name": "videowall",
+  "version": "1.0.0",
+  "description": "video wall for SINBAD box",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nivedab/SINBAD-Videowall.git"
+  },
+  "author": "Niveda Bangalore Sridhar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nivedab/SINBAD-Videowall/issues"
+  },
+  "homepage": "https://github.com/Nivedab/SINBAD-Videowall#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "node.js": "0.0.0",
+    "socket.io": "^2.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
